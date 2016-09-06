@@ -3,7 +3,8 @@
 
 > klik link ini [Tata cara pengerjaan soal](https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/README.md) untuk melihat cara pengerjaan tugas
 
-# **Perhatikan sumber kode dibawah ini!**
+# **Soal**
+### **Perhatikan sumber kode dibawah ini!** ###
 
 ### **Pembeli.java**
 ```java
