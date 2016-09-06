@@ -34,8 +34,6 @@ public class Belajar{
 ```
 masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gist, kemudian input kedalam form dibawah ini.
 
-### **Link Pengumpulan Tugas**
-> [Form input tugas](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
 
 ## **Contoh penulisan gist**
 <img width="700" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
@@ -43,3 +41,11 @@ masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gis
 ### **Keterangan**
 
 > jawaban dimasukan kedalam komentar didalam source code
+
+# **Pertanyaan yang sering diajukan**
+## **Tanggal berapa deadline tugas dikumpulkan?**
+
+> Tanggal `7 September 2016` , paling telat jam `23:59`
+
+## **Bagaimana cara pengumpulan tugasnya?**
+> Tugas dikumpulkan melalui gist pada github dan input data form yang berada pada berikut [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)

@@ -51,10 +51,10 @@ public Class SmartPhone {
 }
 ```
 ### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `17 Error` yang harus dibenarkan.**
-
-### **Tanggal berapa deadline tugas dikumpulkan?**
+# **Pertanyaan yang sering diajukan**
+## **Tanggal berapa deadline tugas dikumpulkan?**
 
 > Tanggal `7 September 2016` , paling telat jam `23:59`
 
-### **Link Pengumpulan Tugas**
-> [Form input tugas](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+## **Bagaimana cara pengumpulan tugasnya?**
+> Tugas dikumpulkan melalui gist pada github dan input data form yang berada pada berikut [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
