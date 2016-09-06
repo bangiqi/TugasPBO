@@ -1,6 +1,4 @@
-# TUGAS PBO 7 September 2016 
-
-## **Tata cara pengerjaan soal**
+# **Tata cara pengerjaan soal**
 ### **contoh, perhatikan sumber kode dibawah ini**
 
 ```java
