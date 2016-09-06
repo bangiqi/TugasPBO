@@ -34,6 +34,7 @@ public class Belajar{
 }
 ```
 masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gist, kemudian input kedalam form dibawah ini.
-<br />[http://google.com](http://google/com)
+
+[http://google.com](http://google/com)
 ## **Contoh penulisan gist**
-<img width="500" src="https://github.com/ramdanisource/PassDataBetweenParceable/raw/master/screenshot/Screenshot_2016-08-23-20-18-06-420_com.labs.ramdani.passbetweenparceable.png" alt="Screenshot app">
+<img width="700" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
