@@ -15,7 +15,7 @@ public class Belajar{
 }
 ```
 # **contoh soal**
-## **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya!**
+### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `3 Error` yang harus dibenarkan.**
 ### **Jawab**
 pada **line 6** : syntax `system` harusnya `System` <br />
 pada **line 6** : syntax `Out` harusnya `out` <br />

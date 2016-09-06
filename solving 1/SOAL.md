@@ -3,7 +3,7 @@
 
 > klik link ini [Tata cara pengerjaan soal](https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/README.md) untuk melihat cara pengerjaan tugas
 
-### **perhatikan sumber kode dibawah ini**
+# **Perhatikan sumber kode dibawah ini!**
 
 ### **Pembeli.java**
 ```java
@@ -49,7 +49,7 @@ public Class SmartPhone {
     public String os;    
 }
 ```
-## **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `17 Error` yang harus dibenarkan**
+### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `17 Error` yang harus dibenarkan.**
 
 ### **Tanggal berapa deadline tugas dikumpulkan?**
 
