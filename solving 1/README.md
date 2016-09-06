@@ -35,7 +35,7 @@ public class Belajar{
 ```
 masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gist, kemudian input kedalam form dibawah ini.
 
-[http://google.com](http://google/com)
+[form input](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
 ## **Contoh penulisan gist**
 <img width="700" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
 
