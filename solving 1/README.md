@@ -38,3 +38,7 @@ masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gis
 [http://google.com](http://google/com)
 ## **Contoh penulisan gist**
 <img width="700" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
+
+### **Keterangan**
+
+> jawaban dimasukan kedalam komentar didalam source code
