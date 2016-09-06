@@ -2,6 +2,7 @@
 ### **Tata cara pengerjaan soal**
 
 > klik link ini [Tata cara pengerjaan soal](https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/README.md) untuk melihat cara pengerjaan tugas
+
 ### **perhatikan sumber kode dibawah ini**
 
 ### **Pembeli.java**
@@ -54,5 +55,5 @@ public Class SmartPhone {
 
 > Tanggal `7 September 2016` , paling telat jam `23:59`
 
-### **Link Pemngumpulan Tugas**
+### **Link Pengumpulan Tugas**
 > [Form input tugas](https://goo.gl/forms/FVHT21vTPeNK5Xik1)

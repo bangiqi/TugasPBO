@@ -14,6 +14,7 @@ public class Belajar{
 
 }
 ```
+# **contoh soal**
 ## **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya!**
 ### **Jawab**
 pada **line 6** : syntax `system` harusnya `System` <br />
@@ -35,7 +36,9 @@ public class Belajar{
 ```
 masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gist, kemudian input kedalam form dibawah ini.
 
-[form input](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+### **Link Pengumpulan Tugas**
+> [Form input tugas](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+
 ## **Contoh penulisan gist**
 <img width="700" src="https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/screenshot/contoh_gist.png" alt="Screenshot">
 
