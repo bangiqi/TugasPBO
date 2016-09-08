@@ -6,7 +6,7 @@
 # **Soal**
 ### **Perhatikan sumber kode dibawah ini!** ###
 
-### **Pembeli.java**
+### **Siswa.java**
 ```java
 package com.belajar.person;
 import com.belajar.Sekolah.labKomputer;
@@ -36,7 +36,7 @@ public class Siswa {
 }
 ```
 
-### **SmartPhone.java**
+### **LabKomputer.java**
 ```java
 package com,belajar.sekolah
 
