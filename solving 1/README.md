@@ -48,4 +48,4 @@ masukan kode yang sudah benar beserta detail jawaban syntax errornya kedalam gis
 > Tanggal `7 September 2016` , paling telat jam `23:59`
 
 ## **Bagaimana cara pengumpulan tugasnya?**
-> Tugas dikumpulkan melalui gist di github , lalu copy link gist tersebut kemudian input data siswa beserta link gist yang sudah dibuat pada form yang sudh disediakan disini [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+> Tugas dikumpulkan melalui gist di github , lalu copy link gist tersebut kemudian input data siswa beserta link gist yang sudah dibuat kemudian input pada form yang sudh disediakan disini [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
