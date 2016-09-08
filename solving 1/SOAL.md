@@ -23,8 +23,7 @@ public class Pembeli {
         hpku.sim = "Dual SIM";
         hpku.harga = 1400000;
         
-        //cetak data
-        System.out.println("Mereknya : "+hpku.merek);
+        //cetak data        
         System.out.println("Mereknya : "+hpmu.merek);
         System.out.prinln("Sistem Operasi : "+hpku.os);
         system.out.println("Kapasitas : "+hpku.kapasitas);
@@ -51,10 +50,10 @@ public Class SmartPhone {
 }
 ```
 ### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `17 Error` yang harus dibenarkan.**
-# **Pertanyaan yang sering diajukan**
+# **Pertanyaan yang sering diajukan (FAQ)** 
 ## **Tanggal berapa deadline tugas dikumpulkan?**
 
 > Tanggal `7 September 2016` , paling telat jam `23:59`
 
 ## **Bagaimana cara pengumpulan tugasnya?**
-> Tugas dikumpulkan melalui gist pada github dan input data form yang berada pada berikut [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+> Tugas dikumpulkan melalui gist di github , lalu copy link gist tersebut kemudian input data siswa beserta link gist yang sudah dibuat pada form yang sudh disediakan disini [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
