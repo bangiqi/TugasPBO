@@ -45,7 +45,7 @@ public class Profile{
 
 }
 ```
-### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `13 Error` yang harus dibenarkan.**
+### **Sebutkan pada line berapa saja yang terjadi error syntax dan perbaiki syntax nya! terdapat `13-14 Error` yang harus dibenarkan.**
 # **Pertanyaan yang sering diajukan (FAQ)** 
 ## **Tanggal berapa deadline tugas dikumpulkan?**
 
