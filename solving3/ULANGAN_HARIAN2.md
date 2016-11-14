@@ -110,4 +110,4 @@ Ruang 		: 205
 > Tanggal `9 November 2016 ` , sampai jam pelajaran berakhir
 
 ## **Bagaimana cara pengumpulan tugasnya?**
-> Tugas dikumpulkan melalui gist di github , lalu copy link gist tersebut kemudian input data siswa beserta link gist yang sudah dibuat kemudian input pada form yang sudh disediakan disini [https://goo.gl/forms/FVHT21vTPeNK5Xik1](https://goo.gl/forms/FVHT21vTPeNK5Xik1)
+> Tugas dikumpulkan melalui gist di github , lalu copy link gist tersebut kemudian input data siswa beserta link gist yang sudah dibuat kemudian input pada form yang sudh disediakan disini [https://goo.gl/forms/Koafv8oNTDAOfCee2](https://goo.gl/forms/Koafv8oNTDAOfCee2)
